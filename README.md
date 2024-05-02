@@ -1,7 +1,6 @@
-# ejercicio-alumno
+# TP individual - Artistas exitosos
 
-## Integrantes
+## Alumno
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
+- Ali Isi (IsiAliEmir)
 ...
