@@ -1,6 +1,3 @@
 # TP individual - Artistas exitosos
 
-## Alumno
-
-- Ali Isi (IsiAliEmir)
-...
+## Alumno: Ali Isi (IsiAliEmir)
