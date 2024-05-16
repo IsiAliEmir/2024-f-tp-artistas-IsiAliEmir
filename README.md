@@ -1,3 +1,4 @@
 # TP individual - Artistas exitosos
 
-## Alumno: Ali Isi (IsiAliEmir)
+## Alumno: Alí Isi
+## Usuario Github: IsiAliEmir
